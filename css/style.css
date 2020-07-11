@@ -135,7 +135,7 @@ section .section-title {
 }
 
 #platillos {
-    background: linear-gradient(to right, #fdc830, #f37335);
+    background-image: linear-gradient(to right top, #f3b235, #f0b035, #edae35, #eaac34, #e7aa34);
     box-shadow: 0 5px 0 0;
     color: white;
     padding: 1em 1.5em;
@@ -211,7 +211,7 @@ a:active {
 }
 
 #donation {
-    background-image: linear-gradient(to right top, #fae800, #fae803, #f9e806, #f9e809, #f9e80c);
+    background-image: linear-gradient(to right top, #cac03a, #d5ca33, #e1d42a, #edde1e, #f9e806);
     box-shadow: 0 5px 0 0;
     color: white;
     padding: 1em 1.5em;
