@@ -152,7 +152,7 @@ a #modifed:hover {
 
 a:active {
     box-shadow: none;
-    top: 5px;
+    top: 3px;
 }
 
 #fresh {
